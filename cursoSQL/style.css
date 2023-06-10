@@ -1,0 +1,39 @@
+.group {
+    max-width: 500px;
+    height: 500px;
+    margin: auto;
+    border: 5px solid rgb(31, 31, 102);
+    border-radius: 2px;
+    background-color: lightblue;
+
+}
+
+h1 {
+    text-align: center;
+    color: rgb(52, 52, 143);
+    margin-top: 50px;
+}
+
+.name, .lastname, .email {
+    color: rgb(52, 52, 143);
+    font-size: 16px;
+    font-weight: bold;
+    margin: 50px;
+}
+
+.form-input {
+    width: 70%;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+    display: block;
+}
+
+.form-btn {
+    background-color: cornflowerblue;
+    width: 100px;
+    height: 30px;
+    color: #fff;
+    margin: 20px 0px 0px 175px;
+}
